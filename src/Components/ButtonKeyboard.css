@@ -1,0 +1,12 @@
+.drum-pad {
+  background-color: brown;
+  padding: 30px;
+  box-shadow: 3px 3px 5px black;
+  font-weight: bold;
+  color: white;
+}
+
+.drum-pad:active {
+  background-color: plum;
+  box-shadow: 0 3px orange;
+}

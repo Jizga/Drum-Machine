@@ -1,0 +1,17 @@
+#display {
+  background-image: url(https://noticias-inirida.co/wp-content/uploads/2020/06/img_59ad389d355c1c6e1d69b09e784bf9ea.jpg);
+  padding: 2%;
+}
+
+.keyboard ul {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin: 10%;
+}
+
+.keyboard li {
+  margin: 0.5%;
+}
